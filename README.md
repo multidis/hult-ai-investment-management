@@ -1,4 +1,4 @@
-# Artificial Intelligence for Investment Management course (Post-graduate)
+# Artificial Intelligence for Investment Management (Post-graduate)
 
 Hult Business School INV-6040.
 
